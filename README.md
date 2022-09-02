@@ -1,1 +1,1 @@
-# scimooth.github.io
+scimooth.github.io
